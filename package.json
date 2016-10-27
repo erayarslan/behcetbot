@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "node-telegram-bot-api": "0.23.3",
+    "n3xt": "0.0.2",
+    "lowdb": "0.12.5",
+    "request": "2.74.0"
+  }
+}
