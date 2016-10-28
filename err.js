@@ -4,7 +4,7 @@ var exitHandler = function (options, err) {
   }
 
   if (options.exit) {
-    $bot.sendAll("behçet kaçar :/ güncellemem lazım kendini. sonrası için beni sev olur mu :'(", function () {
+    $bot.sendAll("behçet kaçar :/ güncellemem lazım kendimi. sonrası için beni sev olur mu :'(", function () {
       process.exit();
     });
   }
