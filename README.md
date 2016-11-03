@@ -1,6 +1,0 @@
-# behcetbot
-
-```sh
-$ ls
-# :P
-```
